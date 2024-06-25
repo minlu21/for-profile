@@ -1,7 +1,7 @@
 ---
 title: 'Pr1'
 date: 2024-06-25T22:19:41+08:00
-draft: true
+draft: false
 type: project
 summary: "Summary of the Pr1 project"
 tags: []

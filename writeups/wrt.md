@@ -1,7 +1,7 @@
 ---
 title: 'Lc1'
 date: 2024-06-25T09:31:47+08:00
-draft: true
+draft: false
 layout: leetcode
 tags: ['bst', 'twopointers']
 ---
